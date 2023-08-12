@@ -1,5 +1,5 @@
 # Soft_Computing
-<h1 style="color: red, text-align: centres">SOFT COMPUTING</h1>
+
 
 *1. Clustering.ipynb is containing all the code for question 1A to 3D*
 
